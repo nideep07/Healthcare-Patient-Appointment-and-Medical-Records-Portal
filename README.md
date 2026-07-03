@@ -15,7 +15,7 @@
   <!-- Core Philosophy Section -->
   <section class="card-lg" style="background: linear-gradient(180deg, var(--card), var(--ivory-2)); border: 1px solid var(--line);">
     <div style="display: flex; gap: 18px; align-items: flex-start;">
-      <div style="font-size: 2rem; color: var(--evergreen); line-height: 1;">◐</div>
+      <div style="font-size: 2rem; color: var(--evergreen); line-height: 1;"></div>
       <div>
         <h2 style="font-size: 1.6rem; margin-top: 0; margin-bottom: 12px;">The Core Philosophy</h2>
         <p style="color: var(--ink-soft); margin: 0; font-size: 1.02rem; line-height: 1.6;">
